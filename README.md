@@ -2,7 +2,7 @@
 
 A curated list of reputable, free websites where founders, builders and creators can list a personal brand: profile pages, directories, expert-source sites and speaker pages that help people and search engines find you. Each entry was checked for a real audience, a working signup route, a free tier and good SEO signals. Link farms, badge-swap directories and sites that sell backlinks are left out on purpose.
 
-**107 sites in 19 categories**, last checked October 2026.
+**98 sites in 17 categories**, last checked October 2026.
 
 Each entry shows the pricing model (**Free** or **Freemium**), a one-line note, and the link type (dofollow or nofollow) when we checked it. Pricing and policies change, so check each site before you sign up.
 
@@ -26,13 +26,11 @@ Areeb Ahmed Khan (The AI Khan) is an AI product builder from Karachi, Pakistan. 
 - [Newsletter directories](#newsletter-directories)
 - [AI & automation expert directories](#ai--automation-expert-directories)
 - [Freelance profiles](#freelance-profiles)
-- [Agency and company directories](#agency-and-company-directories)
 - [AI builder communities](#ai-builder-communities)
 - [Writing & contributor programs](#writing--contributor-programs)
 - [Templates, docs & digital products](#templates-docs--digital-products)
 - [Video & podcast channels](#video--podcast-channels)
 - [Courses & teaching](#courses--teaching)
-- [Local and map listings](#local-and-map-listings)
 - [Design galleries](#design-galleries)
 - [Creator pages](#creator-pages)
 - [Identity & knowledge profiles](#identity--knowledge-profiles)
@@ -96,7 +94,6 @@ Personal founder and maker profiles, plus founder interview routes.
 - [Indie Hackers](https://www.indiehackers.com) - **Free**. Founder community with a personal profile and product pages. [Sign up](https://www.indiehackers.com/sign-up) _Links: Dofollow._
 - [Product Hunt](https://www.producthunt.com) - **Free**. Personal maker profile on the product-launch community, separate from product launches. [Sign up](https://www.producthunt.com/login)
 - [Starter Story](https://www.starterstory.com) - **Free**. Founder interview database that prefers businesses with revenue. _Links: Dofollow._
-- [The Org](https://theorg.com) - **Freemium**. Public org charts. Add yourself to your company's chart. [Sign up](https://theorg.com/signup)
 
 ## Expert-source & press-query sites
 
@@ -158,16 +155,6 @@ Freelance and talent networks with a free profile.
 - [Twine](https://www.twine.net) - **Freemium**. Freelance network for creative and AI talent, with a free profile. [Sign up](https://www.twine.net/signup)
 - [Upwork](https://www.upwork.com) - **Freemium**. Freelance marketplace. The profile is free, but bids use Connects and outbound links are not allowed. [Sign up](https://www.upwork.com/nx/signup/)
 
-## Agency and company directories
-
-Free company profiles for a services business.
-
-- [Agency Spotter](https://www.agencyspotter.com) - **Freemium**. Agency directory with a free profile and paid upgrades. [Sign up](https://www.agencyspotter.com/agency-signup)
-- [Clutch](https://clutch.co) - **Freemium**. B2B services review site. A free company profile ranks on verified client reviews. [Sign up](https://clutch.co/get-listed)
-- [DesignRush](https://www.designrush.com) - **Freemium**. Agency directory with a free listing and paid placements. [Sign up](https://www.designrush.com/agency/registration)
-- [GoodFirms](https://www.goodfirms.co) - **Freemium**. B2B review directory for service companies. The free company profile is reviewed. [Sign up](https://www.goodfirms.co/get-listed) _Links: Nofollow._
-- [TechBehemoths](https://techbehemoths.com) - **Freemium**. Directory of IT companies with a free company profile. [Sign up](https://techbehemoths.com/register)
-
 ## AI builder communities
 
 Platform galleries and communities where AI builders publish templates and models under a public profile.
@@ -209,14 +196,6 @@ Course platforms with public instructor pages.
 
 - [Maven](https://maven.com) - **Freemium**. Cohort-course platform. Listing is free, and Maven takes a share of paid sales. [Sign up](https://maven.com/teach) _Links: Dofollow._
 - [Udemy](https://www.udemy.com/teaching/) - **Free**. Course marketplace. Publishing is free, with a revenue share, and instructors get a public page.
-
-## Local and map listings
-
-Free business listings on map and search platforms for a services business.
-
-- [Apple Business Connect](https://businessconnect.apple.com) - **Free**. Free place card on Apple Maps. Apple verifies it.
-- [Bing Places](https://www.bingplaces.com) - **Free**. Free business listing on Bing Search and Maps. It can import from Google.
-- [Google Business Profile](https://business.google.com) - **Free**. Free business listing on Google Search and Maps. Google verifies it. [Sign up](https://business.google.com/create)
 
 ## Design galleries
 

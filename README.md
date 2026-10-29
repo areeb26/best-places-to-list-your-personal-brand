@@ -2,7 +2,7 @@
 
 A curated list of reputable, free websites where founders, builders and creators can list a personal brand: profile pages, directories, expert-source sites and speaker pages that help people and search engines find you. Each entry was checked for a real audience, a working signup route, a free tier and good SEO signals. Link farms, badge-swap directories and sites that sell backlinks are left out on purpose.
 
-**98 sites in 17 categories**, last checked October 2026.
+**107 sites in 17 categories**, last checked October 2026.
 
 Each entry shows the pricing model (**Free** or **Freemium**), a one-line note, and the link type (dofollow or nofollow) when we checked it. Pricing and policies change, so check each site before you sign up.
 
@@ -54,13 +54,22 @@ Before a site was added, we checked it against the same quality filter:
 
 ## Personal site & blog directories
 
-Directories of personal websites, blogs, and /now and /uses pages.
+Directories, feed aggregators and webrings for personal websites, blogs with an RSS feed, and /now and /uses pages.
 
+- [About Ideas Now](https://aboutideasnow.com) - **Free**. Search engine for the /about, /ideas and /now pages of personal sites. Submit your site once one of those pages is live. [Sign up](https://aboutideasnow.com/about#submit) _Links: Dofollow._
+- [Blogosphere](https://blogosphere.app) - **Free**. Aggregator of hand-reviewed independent blogs. Submit your RSS feed and pick up to three categories. [Sign up](https://text.blogosphere.app/submit.html) _Links: Dofollow._
+- [Bubbles](https://bubbles.town) - **Free**. Community-voted feed of hand-reviewed personal blogs, launched in 2026. Each blog gets its own page. Suggest a blog as the FAQ explains. [Sign up](https://bubbles.town/faq) _Links: Dofollow._
+- [Curlie](https://curlie.org) - **Free**. Volunteer-edited web directory that replaced DMOZ. Editors are selective and review can take a long time. [Sign up](https://curlie.org/docs/en/add.html) _Links: Dofollow._
+- [diff.blog](https://diff.blog) - **Free**. Aggregator of developer blogs. Add your feed to get a public profile, and posts are ranked for originality and depth. [Sign up](https://diff.blog/FAQ/)
+- [Fediring](https://fediring.net) - **Free**. Webring of personal sites run by fediverse members. You need an active fediverse account and the ring's links on your home page. [Sign up](https://fediring.net) _Links: Dofollow._
+- [FeedBagel](https://feedbagel.com) - **Free**. RSS feed directory. A free account lets you add your site, and each site gets its own page. [Sign up](https://feedbagel.com/submit)
+- [IndieBlog.page](https://indieblog.page) - **Free**. Random-post explorer of 5,000+ personal blogs with an RSS feed. Suggest your feed with a short form. [Sign up](https://indieblog.page/suggest)
 - [IndieWeb wiki](https://indieweb.org) - **Free**. Community wiki where you sign in with your own domain (IndieAuth) to get a user page. [Sign up](https://indieweb.org/Special:UserLogin)
 - [Kagi Small Web](https://kagi.com/smallweb) - **Free**. Personal, non-commercial blogs with an RSS feed, shown in Kagi search. Add the feed by pull request. [Sign up](https://github.com/kagisearch/smallweb) _Links: Dofollow._
 - [nownownow.com](https://nownownow.com) - **Free**. Directory of personal /now pages, reviewed by hand. You need a /now page first. [Sign up](https://nownownow.com/about)
 - [ooh.directory](https://ooh.directory) - **Free**. Hand-curated directory of blogs, sorted by topic. Blogs only, and review takes a while. [Sign up](https://ooh.directory/suggest/) _Links: Dofollow._
 - [personalsit.es](https://personalsit.es) - **Free**. Open-source gallery of personal websites. Add yours with a pull request. [Sign up](https://github.com/xdesro/personalsit.es#-adding-your-own-site) _Links: Dofollow._
+- [powRSS](https://powrss.com) - **Free**. Public RSS aggregator of independent blogs, reviewed by hand. Each blog gets its own page. [Sign up](https://powrss.com/join) _Links: Dofollow._
 - [/uses (uses.tech)](https://uses.tech) - **Free**. Directory of /uses pages listing people's gear, editors and tools. You need a /uses page first; add it by pull request. [Sign up](https://github.com/wesbos/awesome-uses) _Links: Dofollow._
 - [Ye Olde Blogroll](https://blogroll.org) - **Free**. Hand-curated blogroll of personal blogs run by people. Self-promotion of services is turned away. [Sign up](https://blogroll.org/submit-a-blog) _Links: Dofollow._
 
